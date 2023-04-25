@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 9,
-		"description": "For Java Edition 1.19, 1.19.1, 1.19.2"
+		"pack_format": 11,
+		"description": "For Java Edition 1.19.3/4"
 	}
 }
