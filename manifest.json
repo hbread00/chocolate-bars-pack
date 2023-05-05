@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Bedrock Edition",
+        "name": "Chocolate bars pack",
+        "uuid": "c671c3b4-4770-45f9-b8af-e2e373f326fb",
+        "version": [1, 2, 0],
+        "min_engine_version": [ 1, 13, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Chocolate bars pack Bedrock Edition",
+            "type": "resources",
+            "uuid": "825c98aa-6f2e-493c-99cc-c61089b03501",
+            "version": [19, 0, 0]
+        }
+    ]
+}
