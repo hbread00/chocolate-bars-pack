@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"bottom": "block/hopper_bottom",
+		"bottom": "block/hopper_bottom_custom",
 		"top": "block/hopper_top",
 		"particle": "block/hopper_outside",
 		"side": "block/hopper_outside",

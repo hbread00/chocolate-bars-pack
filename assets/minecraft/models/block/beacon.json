@@ -5,7 +5,7 @@
 	"textures": {
 		"particle": "block/glass",
 		"glass": "block/glass",
-		"obsidian": "block/beacon_base",
+		"obsidian": "block/beacon_base_custom",
 		"beacon": "block/beacon"
 	},
 	"elements": [
