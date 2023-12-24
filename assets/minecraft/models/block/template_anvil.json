@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"side": "block/anvil_side",
-		"base": "block/anvil_base",
+		"side": "block/anvil_side_custom",
+		"base": "block/anvil_base_custom",
 		"particle": "block/anvil",
 		"body": "block/anvil",
 		"top": "anvil_top"
